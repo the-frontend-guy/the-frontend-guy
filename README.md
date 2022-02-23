@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @the-frontend-guy
-- 👀 I’m interested in Js
 - 🌱 I’m currently learning AR for Web, three.js
 - 💞️ I’m looking to collaborate on any thing that is exciting
 - 📫 vikaspal3295@gmail.com | https://www.linkedin.com/in/vikaspal3295/
